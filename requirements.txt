@@ -1,0 +1,2 @@
+pretty-midi==0.2.9
+pychord==1.1.1
