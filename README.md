@@ -4,6 +4,13 @@ This is a small Python tool that displays the chord factors of individual chords
 ## Purpose
 The purpose of this tool is to streamline the workflow of writing new chord progressions. Instead of having to figure out how to play each chord on an instrument, such as a piano, this tool allows you to visualize how each chord will sound. This can be especially helpful for those who may not have extensive knowledge of music theory or the ability to play each chord in real-time.
 
+## Setting up
+Run the following command in your terminal:
+
+```bash
+pip install -r requirements.txt
+```
+
 ## Usage
 To use the tool, simply input your chord progression when prompted. The tool will then display the chord factors for each chord in the progression and generate a MIDI file of the chord progression. You can choose to show the output MIDI file in your file explorer.
 
