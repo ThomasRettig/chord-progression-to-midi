@@ -5,8 +5,7 @@ This is a small Python tool that displays the chord factors of individual chords
 The purpose of this tool is to streamline the workflow of writing new chord progressions. Instead of having to figure out how to play each chord on an instrument, such as a piano, this tool allows you to visualize how each chord will sound. This can be especially helpful for those who may not have extensive knowledge of music theory or the ability to play each chord in real-time.
 
 ## Setting up
-Run the following command in your terminal:
-
+In the root directory of this project, run the following command:
 ```bash
 pip install -r requirements.txt
 ```
